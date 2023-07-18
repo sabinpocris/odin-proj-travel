@@ -1,2 +1,3 @@
 # odin-proj-travel
-WeTravel landing page for completing the Odin project
+
+A landing page project for completing the CSS Chapter from The Odin Project.
